@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547399899,
+	"version": 1547432698,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -50,12 +50,12 @@
 		"images/bar2-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/play-sheet0.png",
-		"media/you_lose.m4a",
-		"media/you_lose.ogg",
 		"media/footstep.m4a",
 		"media/footstep.ogg",
 		"media/short_fight.m4a",
 		"media/short_fight.ogg",
+		"media/you_lose.m4a",
+		"media/you_lose.ogg",
 		"media/you_win.m4a",
 		"media/you_win.ogg",
 		"icon-16.png",
