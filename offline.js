@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547432698,
+	"version": 1547565773,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,10 +46,11 @@
 		"images/ans_bg-sheet0.png",
 		"images/textfinish-sheet0.png",
 		"images/bar_bg-sheet0.png",
-		"images/bar-sheet0.png",
-		"images/bar2-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/play-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/timebar.png",
+		"images/scorebar.png",
 		"media/footstep.m4a",
 		"media/footstep.ogg",
 		"media/short_fight.m4a",
